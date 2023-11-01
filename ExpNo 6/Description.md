@@ -1,5 +1,5 @@
 <h1>ExpNo 6 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: V.A.JITHENDRA\</h3>
+<h3>Name: V.A.JITHENDRA</h3>
 <h3>Register Number: 212221230043</h3>
 <H3>Aim:</H3>
 <p>
